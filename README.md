@@ -6,5 +6,8 @@ Pin and Password Generator application is a strong pin and password generator of
 <img src = "images/generatePwd.png" width="500">
 <img src = "images/generatePin.png" width="500">
 <br/>
+<br/>
+##Running this application
+To run this application java must be installed. 
 
 
